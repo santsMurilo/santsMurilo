@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Olá 👋, eu sou Murilo</h1>
 
-<!--
-**santsMurilo/santsMurilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+🚀 Focado em Desenvolvimento Back-End com Java
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+ - Atualmente estou no primeiro bimestre de ADS (Análise e Desenvolvimento de Sistemas).  
+ - Estou estudando Java com foco em desenvolvimento Back-End.  
+ - Busco minha primeira oportunidade na área.
+
+---
+
+## Tecnologias que estou aprendendo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,git,github,mysql" />
+
+</div>
+
+---
+
+## Atualmente estudando
+
+- Java
+- Programação Orientada a Objetos (POO)
+- Spring Boot
+- Git e GitHub
+- Banco de Dados SQL
+- Lógica de Programação
+
+---
+
+## Conecte-se comigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## Objetivos
+
+ - Conseguir minha primeira oportunidade como desenvolvedor Back-End  
+ - Aprimorar minhas habilidades com Java e Spring Boot  
+ - Criar projetos para fortalecer meu portfólio  
+ - Evoluir constantemente na área de tecnologia
+
+---
+
+<div align="center">
+
+ Obrigado por visitar meu perfil! 😁👍
+
+</div>
