@@ -1,12 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Murilo</h1>
 
-<p align="center">
-💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
-🚀 Focado em Desenvolvimento Back-End com Java
-</p>
-
----
-
 ## Sobre mim
 
  - Atualmente estou no primeiro bimestre de ADS (Análise e Desenvolvimento de Sistemas).  
