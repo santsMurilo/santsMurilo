@@ -8,13 +8,12 @@
 
 ---
 
-## Tecnologias que estou aprendendo
+## Objetivos
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,git,github,mysql" />
-
-</div>
+ - Conseguir minha primeira oportunidade como desenvolvedor Back-End  
+ - Aprimorar minhas habilidades com Java e Spring Boot  
+ - Criar projetos para fortalecer meu portfólio  
+ - Evoluir constantemente na área de tecnologia
 
 ---
 
@@ -29,6 +28,16 @@
 
 ---
 
+## Tecnologias que estou aprendendo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,git,github,mysql" />
+
+</div>
+
+---
+
 ## Conecte-se comigo
 
 <div align="center">
@@ -38,15 +47,6 @@
 </a>
 
 </div>
-
----
-
-## Objetivos
-
- - Conseguir minha primeira oportunidade como desenvolvedor Back-End  
- - Aprimorar minhas habilidades com Java e Spring Boot  
- - Criar projetos para fortalecer meu portfólio  
- - Evoluir constantemente na área de tecnologia
 
 ---
 
