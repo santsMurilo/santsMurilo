@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Murilo</h1>
+<h1 align="center">Olá, eu sou Murilo👋</h1>
 
 ## Sobre mim
 
